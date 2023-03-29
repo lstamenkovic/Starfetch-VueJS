@@ -1,6 +1,7 @@
 # starfetch
 <img src="public/screenshot_starfetch.png" height="500">
 <hr>
+
 ## Check it out here: https://lstamenkovic.github.io/Starfetch-VueJS/
 
 
